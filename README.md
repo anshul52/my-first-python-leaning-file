@@ -1,2 +1,26 @@
-# my-first-python-leaning-file
-my first python leaning file "I learn python and save my file here in git "
+#please dont remove this line
+print ("Hello World , i am anshul gupta" ,end="")
+"""what the mad person is this"""
+print(",i am learning python")
+print("do what u want to do", end="")
+print(" take space")
+print("file")
+print("next line"," What is your name ? ",end="")
+print("what is the name of national animal")
+#print("ohhhhhhhhhhhhhh")
+#print("C:\'anshul")
+print("Anshul \n Gupta")
+print("Anshul \t Gupta")
+print("x21")
+print("hello \r world")
+#all lines are equal for me
+print("what is the clause \t between theme")
+print("Hello World!",end=" ")
+print("C:\'ANSHUL GUPTA")
+"""what is happining here !"""
+print("anshul \v gupta")
+print("anshul \a gupta")
+print("anshul \b gupta")
+print("anshul \123 gupta")
+print ("anshul \321 gupta")
+print("jai \tshri \tram")
